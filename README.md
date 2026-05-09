@@ -3,14 +3,15 @@
 </h1>
 
 <h3 align='center'>
-  A passionate Full-stack Developer from USA <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-usa-free-png.png" alt="India Flag" width="25" />
+  A passionate Full-stack Developer from USA <img style="vertical-align: sub" 
+<img width="3500" height="3500" alt="vecteezy_united-states-flat-rounded-flag-icon-with-transparent_16328933" src="https://github.com/user-attachments/assets/f4217fd8-7177-4da8-a408-6d6763bbfb30" />
 </h3>
 
 <div align='center'>
   <img src="https://komarev.com/ghpvc/?username=guptanakul774-star&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 <br/>
-<img src="./assets/github-img-nakul.png" alt="Front End Developer Banner" />
+<img width="1584" height="396" alt="Nakul Gupta" src="https://github.com/user-attachments/assets/16536e79-b619-4e47-a4d8-db920e465b3e" />
 <br/>
 
 🔭 I’m currently working on **Airline Project** using React.js, Node.js and AWS <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
