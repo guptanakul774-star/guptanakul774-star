@@ -3,8 +3,7 @@
 </h1>
 
 <h3 align='center'>
-  A passionate Full-stack Developer from USA <img style="vertical-align: sub" 
-<img width="3500" height="3500" alt="vecteezy_united-states-flat-rounded-flag-icon-with-transparent_16328933" src="https://github.com/user-attachments/assets/f4217fd8-7177-4da8-a408-6d6763bbfb30" />
+    A passionate Full-stack Developer from USA 🇺🇸
 </h3>
 
 <div align='center'>
